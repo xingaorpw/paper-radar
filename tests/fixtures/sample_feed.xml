@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:arxiv="http://arxiv.org/schemas/atom">
+  <title>arXiv Query: search_query=cat:cs.CL</title>
+  <id>http://arxiv.org/api/feed/example</id>
+  <updated>2026-01-03T12:00:00Z</updated>
+
+  <entry>
+    <id>http://arxiv.org/abs/2601.00001v2</id>
+    <updated>2026-01-02T12:00:00Z</updated>
+    <published>2026-01-02T10:00:00Z</published>
+    <title>Retrieval   Augmented
+      Language Models</title>
+    <summary>
+      We study retrieval augmented language models.
+      The benchmark covers   question answering.
+    </summary>
+    <author>
+      <name>Ada Lovelace</name>
+    </author>
+    <author>
+      <name>Alan Turing</name>
+    </author>
+    <link href="http://arxiv.org/abs/2601.00001v2" rel="alternate" type="text/html"/>
+    <link href="http://arxiv.org/pdf/2601.00001v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL"/>
+    <category term="cs.AI"/>
+  </entry>
+
+  <entry>
+    <id>http://arxiv.org/abs/2601.00002v1</id>
+    <updated>2026-01-02T09:00:00Z</updated>
+    <published>2026-01-02T09:00:00Z</published>
+    <title>A Benchmark for
+      Retrieval Evaluation</title>
+    <summary>Dense retrieval systems are compared on a new benchmark.</summary>
+    <author>
+      <name>Grace Hopper</name>
+    </author>
+    <link href="http://arxiv.org/abs/2601.00002v1" rel="alternate" type="text/html"/>
+    <arxiv:primary_category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.IR"/>
+    <category term="cs.LG"/>
+  </entry>
+
+  <entry>
+    <id>http://arxiv.org/abs/2601.00003v1</id>
+    <updated>2026-01-01T08:00:00Z</updated>
+    <published>2026-01-01T08:00:00Z</published>
+    <title>Graph Neural Networks for Molecular Property Prediction</title>
+    <summary>We predict molecular properties with graph neural networks.</summary>
+    <author>
+      <name>Demis Hassabis</name>
+    </author>
+    <link href="http://arxiv.org/abs/2601.00003v1" rel="alternate" type="text/html"/>
+    <arxiv:primary_category term="q-bio.BM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.BM"/>
+    <category term="cs.LG"/>
+  </entry>
+</feed>
